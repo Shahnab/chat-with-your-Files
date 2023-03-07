@@ -1,0 +1,12 @@
+openai
+pypdf
+scikit-learn
+numpy
+tiktoken
+docx2txt
+langchain
+pydantic
+typing
+faiss-cpu
+streamlit_chat
+python-pptx

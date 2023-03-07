@@ -106,4 +106,6 @@ with tab2:
     st.write('1. Reading any pdf, docx, txt or csv file')
     st.write('2. Embedding texts segments with Langchain and OpenAI')
     st.write('3. Chatting with the file using streamlit-chat and LangChain QA with source and GPT model')
+    st.write('Demo Video')
+    st.video('https://youtu.be/09Uo9EkFLD8')
     
